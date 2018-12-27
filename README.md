@@ -35,8 +35,13 @@ The frontend will generate and execute powershell scripts/sql/configuration, and
 The framework application will have have the follwoing structure:
 GITFramework\<version>\bin\GITFrameworkFrontend.exe
 GITFramework\<version>\bin\GITFrameworkFrontend.exe.config
+GITFramework\<version>\resources\bin
+GITFramework\<version>\templates
+GITFramework\<version>\templates\gitxml
+GITFramework\<version>\templates\scripts
+GITFramework\<version>\templates\sql
 GITFramework\<version>\projects\<projectname>.config
-GITFramework\<version>\projects\<projectname>.config
+
 
 When you create a new project it will save the core project config in the GITFramework\<version>\projects directory.
 The project will contain the following structure:
@@ -55,10 +60,10 @@ The project will contain the following structure:
 <project top level dir>\load\sql
 <project top level dir>\load\gitxml
 <project top level dir>\load\run
-<project top level dir>\load\run\<DATETIMESTAMP>_<TYPEOFLOAD>_<MODE>_<THREADNO>
-<project top level dir>\load\run\<DATETIMESTAMP>_<TYPEOFLOAD>_<MODE>_<THREADNO>\config.xml
-<project top level dir>\load\run\<DATETIMESTAMP>_<TYPEOFLOAD>_<MODE>_<THREADNO>\messages.txt
-<project top level dir>\load\run\<DATETIMESTAMP>_<TYPEOFLOAD>_<MODE>_<THREADNO>\exceptions.txt
+<project top level dir>\load\run\DATETIMESTAMP_TYPEOFLOAD__DESCRIPTION_MODE_THREADNO
+<project top level dir>\load\run\DATETIMESTAMP_TYPEOFLOAD__DESCRIPTION_MODE_THREADNO\config.xml
+<project top level dir>\load\run\DATETIMESTAMP_TYPEOFLOAD_MODE_<THREADNO>\messages.txt
+<project top level dir>\load\run\DATETIMESTAMP_TYPEOFLOAD_MODE_<THREADNO>\exceptions.txt
   
 
 

@@ -1,0 +1,17 @@
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\UnitTests\bin\Debug\UnitTests.dll
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\UnitTests\bin\Debug\UnitTests.pdb
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\UnitTests\bin\Debug\ReplaceText.exe
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\UnitTests\bin\Debug\ReplaceText.pdb
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\UnitTests\bin\Debug\ReplaceText.exe.config
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\UnitTests\obj\Debug\UnitTests.dll
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\UnitTests\obj\Debug\UnitTests.pdb

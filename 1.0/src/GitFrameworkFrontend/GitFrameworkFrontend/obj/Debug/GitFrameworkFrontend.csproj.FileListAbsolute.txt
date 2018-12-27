@@ -1,0 +1,9 @@
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\GitFrameworkFrontend\bin\Debug\GitFrameworkFrontend.exe.config
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\GitFrameworkFrontend\bin\Debug\GitFrameworkFrontend.exe
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\GitFrameworkFrontend\bin\Debug\GitFrameworkFrontend.pdb
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\GitFrameworkFrontend\obj\Debug\GitFrameworkFrontend.csprojAssemblyReference.cache
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\GitFrameworkFrontend\obj\Debug\GitFrameworkFrontend.Properties.Resources.resources
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\GitFrameworkFrontend\obj\Debug\GitFrameworkFrontend.csproj.GenerateResource.cache
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\GitFrameworkFrontend\obj\Debug\GitFrameworkFrontend.csproj.CoreCompileInputs.cache
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\GitFrameworkFrontend\obj\Debug\GitFrameworkFrontend.exe
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\GitFrameworkFrontend\obj\Debug\GitFrameworkFrontend.pdb

@@ -30,6 +30,6 @@ if ($numGITInstances -gt 0)
     $counter = 0
     while ($counter -lt $numGITInstances)
     {
-        
+        iex start 
     }
 }

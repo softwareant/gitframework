@@ -1,0 +1,7 @@
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\ReplaceText\bin\Debug\ReplaceText.exe.config
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\ReplaceText\bin\Debug\ReplaceText.exe
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\ReplaceText\bin\Debug\ReplaceText.pdb
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\ReplaceText\obj\Debug\ReplaceText.csprojAssemblyReference.cache
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\ReplaceText\obj\Debug\ReplaceText.csproj.CoreCompileInputs.cache
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\ReplaceText\obj\Debug\ReplaceText.exe
+C:\projects\GitFramework\gitframework\1.0\src\GitFrameworkFrontend\ReplaceText\obj\Debug\ReplaceText.pdb
